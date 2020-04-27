@@ -1,4 +1,4 @@
-FROM arm32v7/alpine
+FROM arm32v6/alpine
 
 LABEL maintainer Emmanuel Engelhart <kelson@kiwix.org>
 

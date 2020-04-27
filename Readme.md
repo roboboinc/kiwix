@@ -1,5 +1,5 @@
 
-Kiwix serve Docker image fro Pi (Armv7) --> Modified from <https://github.com/kiwix/kiwix-tools>
+Kiwix serve Docker image for Pi (Armv7) --> Modified from <https://github.com/kiwix/kiwix-tools>
 ========================
 
 - This version of the server image has been modified to run on the raspberrypi with Arm v7 although  can be changed to support pi v6 by changing the base image on Dockerfile from ```FROM arm32v7/alpine``` to ```FROM arm32v6/alpine``` if you are running pi v1
